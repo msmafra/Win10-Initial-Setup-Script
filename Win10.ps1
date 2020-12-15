@@ -1,7 +1,11 @@
 ##########
 # Win 10 / Server 2016 / Server 2019 Initial Setup Script - Main execution loop
 # Author: Disassembler <disassembler@dasm.cz>
+<<<<<<< HEAD
 # Version: v3.7, 2019-05-31
+=======
+# Version: v3.10, 2020-07-15
+>>>>>>> 076bfbdf75272ad6a7677a212c500e2b42b60ee0
 # Source: https://github.com/Disassembler0/Win10-Initial-Setup-Script
 ##########
 

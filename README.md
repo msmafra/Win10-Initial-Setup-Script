@@ -83,6 +83,11 @@ The script supports command line options and parameters which can help you custo
 |  1803   | Redstone 4 (RS4)        | April 2018 Update      | 17134 |
 |  1809   | Redstone 5 (RS5)        | October 2018 Update    | 17763 |
 |  1903   | 19H1                    | May 2019 Update        | 18362 |
+<<<<<<< HEAD
+=======
+|  1909   | 19H2                    | November 2019 Update   | 18363 |
+|  2004   | 20H1                    | May 2020 Update        | 19041 |
+>>>>>>> 076bfbdf75272ad6a7677a212c500e2b42b60ee0
 
 &nbsp;
 
